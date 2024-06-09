@@ -1,3 +1,3 @@
-export interface AnchorsServiceReturn {
+export interface PriceServiceReturn {
   getPrices: () => Promise<String>;
 }
